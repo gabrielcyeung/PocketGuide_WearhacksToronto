@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="arrow_size">72dp</dimen>
+    <dimen name="arrow_margin">4dp</dimen>
+    <dimen name="chevron_size">120dp</dimen>
+    <dimen name="direction_text_size">24sp</dimen>
+</resources>
